@@ -2,6 +2,8 @@
 
 Press-release pictures for 3DIGIT products — logos, product shots and screenshots.
 
+**[SynthSYS press kit →](synthsys/README.md)** every SynthSYS picture with its direct link.
+
 ## Folders
 
 | Folder | Contents |
