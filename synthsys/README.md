@@ -4,6 +4,14 @@ Press-release pictures for SynthSYS. Click any picture to open the full-size fil
 the address it opens is the direct link to paste into an email or press release.
 Each section also has a **Direct links** list ready to copy.
 
+## Press release
+
+**[Download the SynthSYS press release (Word)](https://raw.githubusercontent.com/snicknack/3digit-press/main/synthsys/press-release/synthsys-press-release.docx)**
+
+```
+https://raw.githubusercontent.com/snicknack/3digit-press/main/synthsys/press-release/synthsys-press-release.docx
+```
+
 ## Hero pictures
 
 | | |
